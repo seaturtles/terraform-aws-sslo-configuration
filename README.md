@@ -1,1 +1,1 @@
-# terrafrom-aws-sslo-configuration
+# terraform-aws-sslo-configuration
